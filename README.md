@@ -1,8 +1,12 @@
-# Telegram Userbot dart simple
+IyBUZWxlZ3JhbSBVc2VyYm90IGRhcnQgc2ltcGxlCgpUZWxlZ3JhbSB1c2Vy
+Ym90IGRhcnQgc2ltcGxlLAo+IHJlcG9zaXRvcnkgaW5pIGhhbnlhIHVudHVr
+IHN1bWJlciBiZWxhamFyIHNhamEgYmFnaSBvcmFuZyB5YW5nIGluZ2luIG1l
+bmdndW5ha2FuIGJhaGFzYSBjb2RlIGRhcnQKCj4gU2lsYWhrYW4gdG9udG9u
+IHZpZGVvIHNwZWVkIGNvZGUgeWE6KSBiaWFyIHVzZXJib3QgaW5pIGJpc2Eg
+amFsYW4gCgpbIVtdKGh0dHBzOi8vaW1nLnlvdXR1YmUuY29tL3ZpL1lFRk0w
+SVRsTE5rL2hxZGVmYXVsdC5qcGcpXShodHRwczovL3d3dy55b3V0dWJlLmNv
+bS93YXRjaD92PVlFRk0wSVRsTE5rKQ==
 
-Telegram userbot dart simple,
-> repository ini hanya untuk sumber belajar saja bagi orang yang ingin menggunakan bahasa code dart
-
-> Silahkan tonton video speed code ya:) biar userbot ini bisa jalan 
-
-[![](https://img.youtube.com/vi/YEFM0ITlLNk/hqdefault.jpg)](https://www.youtube.com/watch?v=YEFM0ITlLNk)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
